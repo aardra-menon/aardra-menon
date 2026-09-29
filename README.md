@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 I build practical AI systems that turn complex problems into **reliable, production-ready solutions** from machine learning and NLP to **LLMs, RAG and Agentic AI**.
 
-🔧 **Core:** Python · SQL · Machine Learning · NLP · LLMs · RAG · Agentic AI
-🛠️ **Engineering:** LangGraph · LangChain · FastAPI · PyTorch · TensorFlow · Docker
+🔧 **Core:** Python · SQL · Machine Learning · NLP · LLMs · RAG · Agentic AI <br>
+🛠️ **Engineering:** LangGraph · LangChain · FastAPI · PyTorch · TensorFlow · Docker <br>
 ☁️ **Cloud:** Azure · Azure OpenAI · Google Cloud · Vertex AI
 
 🚀 **Currently exploring:** Agentic AI · AI Guardrails · MCP · AI Observability
